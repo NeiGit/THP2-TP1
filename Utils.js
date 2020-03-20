@@ -1,6 +1,3 @@
-
-
-
 function transformTextToNumberArray(text = "") {
     return text.split("|");
 }
